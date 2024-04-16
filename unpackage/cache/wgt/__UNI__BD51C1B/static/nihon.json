@@ -1,0 +1,1257 @@
+[
+    {
+        "id": "1",
+        "word": "あい",
+        "translation": "愛"
+    },
+    {
+        "id": "2",
+        "word": "あいかわらず「相変わらず」",
+        "translation": "依旧"
+    },
+    {
+        "id": "3",
+        "word": "あいこう「愛好」", 
+        "translation": "爱好"
+    },
+    {
+        "id": "4",
+        "word": "あいさつ「挨拶」",
+        "translation": "寒暄"
+    },
+    {
+        "id": "5",
+        "word": "あいじょう「愛情」",
+        "translation": "爱情"
+    },
+    {
+        "id": "6",
+        "word": "あいず「合図」",
+        "translation": "暗号"
+    },
+    {
+        "id": "7",
+        "word": "あいする「愛する」",
+        "translation": "喜爱"
+    },
+	{
+		"id": "8",
+		"word": "あいだ「間」",
+		"translation": "间隔"
+	},
+	{
+		"id": "9",
+		"word": "あいづち「相槌」",
+		"translation": "附和"
+	},
+	{
+		"id": "10",
+		"word": "あいて「相手」",
+		"translation": "伙伴，对手"	
+	},
+	{
+		"id": "11",
+		"word": "あいにく「生憎」",
+		"translation": "不凑巧"
+	},
+	{
+		"id": "12",
+		"word": "あいまい「曖昧」",
+		"translation": "曖昧"
+	},
+	{
+		"id": "13",
+		"word": "あう",
+		"translation": "遇见"
+	},
+	{
+		"id": "14",
+		"word": "あう「会う」",
+		"translation": "符合"
+	},
+	{
+		"id": "15",
+		"word": "あえて「敢えて」",
+		"translation": "强行，未必<副>"
+	},
+	{
+		"id": "16",
+		"word": "あおぐ",
+		"translation": "约定，商定"
+	},
+	{
+		"id": "17",
+		"word": "あおじょろい「青白い」",
+		"translation": "青白色，苍白"
+	},
+	{
+		"id" : "18",
+		"word" : "あおむけ「仰向け」",
+		"translation": "仰面朝天"
+	},
+	{
+		"id" : "19",
+		"word": "あかしんごう「赤信号」",
+		 "translation": "红灯"
+	},	
+	{
+		"id" : "20",
+		"word" : "あかちゃん「赤ちゃん」",
+		"translation": "小宝宝"
+	},
+	{
+		"id" : "21",
+		"word" : "あかり「灯り」",
+		"translation":"光线"
+	},
+	{
+		"id" : "22",
+		"word" : "あがる「上がる」",
+		"translation" : "登上，结束，怯场，吃，做好"
+	},
+	{
+		"id" : "23",
+		"word" : "あかんぼう「赤ん坊」",
+		"translation" : "婴儿，幼稚"
+	},
+	{
+		"id" : "24",
+		"word" : "あき",
+		"translation" : "空隙，空闲"
+	},
+	{
+		"id" : "25",
+		"word" : "あきらか「明らか」",
+		"translation" : "明亮"
+	},
+	{
+		"id" : "26",
+		"word" : "あきらめる「諦める」",
+		"translation" : "放弃"
+		},
+		{
+			"id" : "27",
+			"word" : "あきる「飽きる」",
+			"translation":"厌烦"
+		},
+		{
+			"id" : "28",
+			"word" : "あきれる「呆れる」",
+			"translation" : "吃惊"
+		},
+		{
+			"id" : "29",
+			"word" : "あく",
+			"translation" : "开"
+		},
+		{
+			"id" : "30",
+			"word" : "あく",
+			"translation" : "有空隙，闲着"
+		},
+		{
+			"id" : "31",
+			"word" : "あく「悪」",
+			"translation" : "坏"
+		},
+		{
+			"id" : "32",
+			"word" : "あくしゅ「握手」",
+			"translation" : "握手，协作"
+		},
+		{
+			"id" : "33",
+			"word" : "あくてんこう「悪天候」",
+			"translation":"坏天气"
+		},
+		{
+			"id" : "34",
+			"word" : "あくび「欠伸」",
+			"translation" : "哈欠"
+		},
+		{
+			"id" : "35",
+			"word" : "あくま「悪魔」",
+			"translation" : "恶魔"
+		},
+		{
+			"id" : "36",
+			"word" : "あくまで",
+			"translation" : "到底"
+		},
+		{
+			"id" : "37",
+			"word" : "あくる「明くる」",
+			"translation" : "下次"
+		},
+		{
+			"id" : "38",
+			"word" : "あけがた「明け方」",
+			"translation" : "黎明"
+		} ,
+		{
+			"id" : "39",
+			"word" : "あげく「揚げ句」",
+			"translation":"连歌或俳句的最后一句，最后"
+		},
+		{
+			"id" : "40",
+			"word" : "あける「明ける」",
+			"translation" : "天明，过年，欺满"
+		},
+		{
+			"id" : "41",
+			"word" : "あける「空ける」",
+			"translation" : "空出，腾出，不在家"
+		},
+		{
+			"id" : "42",
+			"word" : "あげる「挙げる」",
+			"translation" : "举，举出，举行，发动"
+		},
+		{
+			"id" : "43",
+			"word" : "あげる「揚げる」",
+			"translation" : "举起，油炸，起"
+		},
+		{
+			"id" : "44",
+			"word" : "あこがれる「憧れる」",
+			"translation" : "向往，憧憬，被异性追求"
+		},
+		{
+			"id" : "45",
+			"word" : "あさい「浅い」",
+			"translation":"浅，短，肤浅"
+		},
+		{
+			"id" : "46",
+			"word" : "あさねぼう「朝寝坊」",
+			"translation" : "早上睡懒觉的人"
+		},
+		{
+			"id" : "47",
+			"word" : "あさひ「朝日」",
+			"translation" : "朝日"
+		},
+		{
+			"id" : "48",
+			"word" : "あさゆう「朝夕」",
+			"translation" : "早晚"
+		},
+		{
+			"id" : "49",
+			"word" : "あし「葦」",
+			"translation" : "芦苇"
+		},
+		{
+			"id" : "50",
+			"word" : "あじ「味」",
+			"translation" : "味道"
+		},
+    {
+        "id": "51",
+        "word": "あしあと「足跡」",
+        "translation": "足迹，成就"
+    },
+    {
+        "id": "52",
+        "word": "あしもと「足元」",
+        "translation": "立脚点，身旁"
+    },
+    {
+        "id": "53",
+        "word": "あしおと「足音」", 
+        "translation": "脚步声"
+    },
+    {
+        "id": "54",
+        "word": "あじわう「味わう」",
+        "translation": "品尝，玩味，体验"
+    },
+    {
+        "id": "55",
+        "word": "あずかる「預かる」",
+		"translation": "首存，照顾，承担"
+    },
+    {
+        "id": "56",
+        "word": "あずける「預ける」",
+        "translation": "寄存，委托"
+    },
+    {
+        "id": "57",
+        "word": "あす「明日」",
+        "translation": "明天"
+    },
+	{
+		"id": "58",
+		"word": "あせ「汗」",
+		"translation": "汗"
+	},
+	{
+		"id": "59",
+		"word": "あせる「焦る」",
+		"translation": "着急"
+	},
+	{
+		"id": "60",
+		"word": "あそび「遊び」",
+		"translation": "游戏，游玩，放荡，游动，没事做"	
+	},
+	{
+		"id": "61",
+		"word": "あそぶ「遊ぶ」",
+		"translation": "玩耍，游玩，放荡"
+	},
+	{
+		"id": "62",
+		"word": "あたい「価」",
+		"translation": "价值"
+	},
+	{
+		"id": "63",
+		"word": "あたえる「与える」",
+		"translation": "授予，给予，使蒙受"
+	},
+	{
+		"id": "64",
+		"word": "あたし「私」",
+		"translation": "我"
+	},
+	{
+		"id": "65",
+		"word": "あたたか「暖か、温か」",
+		"translation": "暖，温暖，热情，富裕"
+	},
+	{
+		"id": "66",
+		"word": "あたたかい「暖かい、温かい」",
+		"translation": "温暖，和睦，富足"
+	},
+	{
+		"id": "67",
+		"word": "あたたまる「温まる、暖まる」",
+		"translation": "变热，感到温暖"
+	},
+	{
+		"id" : "68",
+		"word" : "あたためる「温める、暖める」",
+		"translation": "加热，孵蛋，珍藏，重温，占为己有"
+	},
+	{
+		"id" : "69",
+		"word": "あたま「頭」",
+		 "translation": "头"
+	},	
+	{
+		"id" : "70",
+		"word" : "あたらしい「新しい」",
+		"translation": "新的，新式的，新鲜的，现代的"
+	},
+	{
+		"id" : "71",
+		"word" : "あたり「辺り」",
+		"translation":"周围"
+	},
+	{
+		"id" : "72",
+		"word" : "あたりまえ「当たり前」",
+		"translation" : "当然，普通"
+	},
+	{
+		"id" : "73",
+		"word" : "あたる「当たる」",
+		"translation" : "成功，击中，晒（太阳），吹（风）等"
+	},
+	{
+		"id" : "74",
+		"word" : "あちこち「彼方此方」",
+		"translation" : "到处，顺序颠倒"
+	},
+	{
+		"id" : "75",
+		"word" : "あちらこちら",
+		"translation" : "那儿，到处"
+	},
+	{
+		"id" : "76",
+		"word" : "あつい「熱い」",
+		"translation" : "温度高，体温高，热烈的"
+		},
+		{
+			"id": "77",
+			"word" : "あつい「暑い」",
+			"translation":"气温高"
+		},
+		{
+			"id" : "78",
+			"word" : "あつい「厚い」",
+			"translation" : "有厚度，人情深厚，程度很深"
+		},
+		{
+			"id" : "79",
+			"word" : "あつい",
+			"translation" : "病重，笃志，（感情）深厚"
+		},
+		{
+			"id" : "80",
+			"word" : "あつかう「扱う」",
+			"translation" : "操作，对待，处理，出售，报道"
+		},
+		{
+			"id" : "81",
+			"word" : "あつかましい「厚かましい」",
+			"translation" : "无耻"
+		},
+		{
+			"id" : "82",
+			"word" : "あつくるしい「暑苦しい」",
+			"translation" : "热得难受"
+		},
+		{
+			"id" : "83",
+			"word" : "あっしゅく「圧縮」",
+			"translation":"加压，压缩"
+		},
+		{
+			"id" : "84",
+			"word" : "あつまり「集まり」",
+			"translation" : "集会，聚会，集中"
+		},
+		{
+			"id" : "85",
+			"word" : "あつめる「集める」",
+			"translation" : "使集合，收集，集中，征集"
+		},
+		{
+			"id" : "86",
+			"word" : "あてな「宛名」",
+			"translation" : "收信人姓名和地址"
+		},
+		{
+			"id" : "87",
+			"word" : "あてはまる「当てはまる」",
+			"translation" : "适用，合适"
+		},
+		{
+			"id" : "88",
+			"word" : "あてはめる「当てはめる」",
+			"translation" : "使用，套用"
+		} ,
+		{
+			"id" : "89",
+			"word" : "あてる「当てる」",
+			"translation":"碰撞"
+		},
+		{
+			"id" : "90",
+			"word" : "あと「跡」",
+			"translation" : "痕迹，印记，遗迹，继任"
+		},
+		{
+			"id" : "91",
+			"word" : "あな「穴」",
+			"translation" : "洞，亏空"
+		},
+		{
+			"id" : "92",
+			"word" : "あながち",
+			"translation" : "未必"
+		},
+		{
+			"id" : "93",
+			"word" : "あなた「貴方」",
+			"translation" : "你，那边，以前"
+		},
+		{
+			"id" : "94",
+			"word" : "あにき「兄貴」",
+			"translation" : "哥哥，老大哥"
+		},
+		{
+			"id" : "95",
+			"word" : "あばく「暴く」",
+			"translation":"揭发，发掘"
+		},
+		{
+			"id" : "96",
+			"word" : "あばれる「暴れる」",
+			"translation" : "胡闹"
+		},
+		{
+			"id" : "97",
+			"word" : "あびる「浴びる」",
+			"translation" : "洗，受到，"
+		},
+		{
+			"id" : "98",
+			"word" : "あぶない「危ない」",
+			"translation" : "危险的，垂危，不稳定，靠不住的"
+		},
+		{
+			"id" : "99",
+			"word" : "あぶら「油」",
+			"translation" : "油"
+		},
+		{
+			"id" : "100",
+			"word" : "あぶる「炙る」",
+			"translation" : "取暖，烘干，烤"
+		},
+		{
+		    "id": "101",
+		    "word": "あふれる「溢れる」",
+		    "translation": "溢满，人很多，洋溢"
+		},
+		{
+		    "id": "102",
+		    "word": "あべこべ",
+		    "translation": "相反"
+		},
+		{
+		    "id": "103",
+		    "word": "あまい「甘い」", 
+		    "translation": "甜，淡，声音甜，不严格，考虑简单，男女关系好，松动"
+		},
+		{
+		    "id": "104",
+		    "word": "あまえる「甘える」",
+		    "translation": "撒娇，承蒙"
+		},
+		{
+		    "id": "105",
+		    "word": "あまぐ「雨具」",
+		    "translation": "雨具"
+		},
+		{
+		    "id": "106",
+		    "word": "あまど「雨戸」",
+		    "translation": "木板套窗"
+		},
+		{
+		    "id": "107",
+		    "word": "あまもよう「雨模様」",
+		    "translation": "要下雨的样子"
+		},
+		{
+			"id": "108",
+			"word": "あまやかす「甘やかす」",
+			"translation": "姑息"
+		},
+		{
+			"id": "109",
+			"word": "あまり「余り」",
+			"translation": "剩余，过分，太，不怎么，余"
+		},
+		{
+			"id": "110",
+			"word": "あまる「余る」",
+			"translation": "剩，胜过"
+		},
+		{
+			"id": "111",
+			"word": "あみもの「編み物」",
+			"translation": "编结，编织品"
+		},
+		{
+			"id": "112",
+			"word": "あむ「編む」",
+			"translation": "编制，编纂"
+		},
+		{
+			"id": "113",
+			"word": "あやうい「危うい」",
+			"translation": "危险"
+		},
+		{
+			"id": "114",
+			"word": "あやしい「怪しい」",
+			"translation": "奇怪的，可以的，难以置信的，靠不住的，要变坏的"
+		},
+		{
+			"id": "115",
+			"word": "あやまち「過ち」",
+			"translation": "失败，过失"
+		},
+		{
+			"id": "116",
+			"word": "あやまり「誤り」",
+			"translation": "错误"
+		},
+		{
+			"id": "117",
+			"word": "あやまる「誤る」",
+			"translation": "错"
+		},
+		{
+			"id" : "118",
+			"word" : "あやまる「謝る」",
+			"translation": "认错"
+		},
+		{
+			"id" : "119",
+			"word": "あら",
+			 "translation": "哎呀，哎呦"
+		},	
+		{
+			"id" : "120",
+			"word" : "あらあら",
+			"translation": "哎呀"
+		},
+		{
+			"id" : "121",
+			"word" : "あらい「荒い」",
+			"translation":"粗暴，剧烈，胡来"
+		},
+		{
+			"id" : "122",
+			"word" : "あらう「洗う」",
+			"translation" : "洗，洗刷，调查"
+		},
+		{
+			"id" : "123",
+			"word" : "あらかじめ「予め」",
+			"translation" : "预先"
+		},
+		{
+			"id" : "124",
+			"word" : "あらし「嵐」",
+			"translation" : "暴风雨，纠纷"
+		},
+		{
+			"id" : "125",
+			"word" : "あらすじ「粗筋」",
+			"translation" : "梗概"
+		},
+		{
+			"id" : "126",
+			"word" : "あらそう「争う」",
+			"translation" : "竞争，争吵，争论，主张"
+			},
+			{
+				"id" : "127",
+				"word" : "あらた「新た」",
+				"translation":"新，重新，非常新"
+			},
+			{
+				"id" : "128",
+				"word" : "あらためて「改めて」",
+				"translation" : "稍后，再次"
+			},
+			{
+				"id" : "129",
+				"word" : "あらためる「改める」",
+				"translation" : "更新，改正，郑重，调查"
+			},
+			{
+				"id" : "130",
+				"word" : "あらゆる",
+				"translation" : "所有"
+			},
+			{
+				"id" : "131",
+				"word" : "あらわす「現す」",
+				"translation" : "使其出现，发挥"
+			},
+			{
+				"id" : "132",
+				"word" : "あらわす「表す」",
+				"translation" : "表露，表现，意味着"
+			},
+			{
+				"id" : "133",
+				"word" : "あらわれ「現れ」",
+				"translation":"表现，结果"
+			},
+			{
+				"id" : "134",
+				"word" : "あらわれる「現れる」",
+				"translation" : "显露，出现，来"
+			},
+			{
+				"id" : "135",
+				"word" : "ありかた「在り方」",
+				"translation" : "存在的状态"
+			},
+			{
+				"id" : "136",
+				"word" : "ありがたい「有り難い」",
+				"translation" : "宝贵的，难得"
+			},
+			{
+				"id" : "137",
+				"word" : "ある「或る」",
+				"translation" : "某"
+			},
+			{
+				"id" : "138",
+				"word" : "あるいは「或いは」",
+				"translation" : "或者，也许"
+			} ,
+			{
+				"id" : "139",
+				"word" : "あるきまわる「歩き回る」",
+				"translation":"各处走动"
+			},
+			{
+				"id" : "140",
+				"word" : "あるく「歩く」",
+				"translation" : "步行，外出"
+			},
+			{
+				"id" : "141",
+				"word" : "あれこれ",
+				"translation" : "这个那个"
+			},
+			{
+				"id" : "142",
+				"word" : "あれる「荒れる」",
+				"translation" : "海浪汹涌，荒废"
+			},
+			{
+				"id" : "143",
+				"word" : "あわ「泡」",
+				"translation" : "泡沫"
+			},
+			{
+				"id" : "144",
+				"word" : "あわせる「合わせる」",
+				"translation" : "合并，相合，适应，核对"
+			},
+			{
+				"id" : "145",
+				"word" : "あわただしい「慌ただしい」",
+				"translation":"不稳定的"
+			},
+			{
+				"id" : "146",
+				"word" : "あわてる「慌てる」",
+				"translation" : "着慌"
+			},
+			{
+				"id" : "147",
+				"word" : "あわれ「哀れ」",
+				"translation" : "可怜，情趣"
+			},
+			{
+				"id" : "148",
+				"word" : "あん「案」",
+				"translation" : "计划，主意，方案，意料"
+			},
+			{
+				"id" : "149",
+				"word" : "あんい「安易」",
+				"translation" : "容易，马马虎虎"
+			},
+			{
+				"id" : "150",
+				"word" : "あんか「安価」",
+				"translation" : "廉价，没有价值"
+			},
+		{
+		    "id": "151",
+		    "word": "あんがい「案外」",
+		    "translation": "意外的"
+		},
+		{
+		    "id": "152",
+		    "word": "あんき「暗記」",
+		    "translation": "背诵"
+		},
+		{
+		    "id": "153",
+		    "word": "あんしん「安心」", 
+		    "translation": "安心"
+		},
+		{
+		    "id": "154",
+		    "word": "あんせい「安静」",
+		    "translation": "静养"
+		},
+		{
+		    "id": "155",
+		    "word": "あんぜん「安全」",
+			"translation": "安全"
+		},
+		{
+		    "id": "156",
+		    "word": "あんてい「安定」",
+		    "translation": "安定"
+		},
+		{
+		    "id": "157",
+		    "word": "あんな",
+		    "translation": "那样的"
+		},
+		{
+			"id": "158",
+			"word": "あんない「案内」",
+			"translation": "引导，通知，知道"
+		},
+		{
+			"id": "159",
+			"word": "あんなに",
+			"translation": "那样的"
+		},
+		{
+			"id": "160",
+			"word": "あんまり",
+			"translation": "太，过分"
+		},
+		{
+			"id": "161",
+			"word": "い「胃」",
+			"translation": "胃"
+		},
+		{
+			"id": "162",
+			"word": "いいあらわす「言い表す」",
+			"translation": "表达，说明"
+		},
+		{
+			"id": "163",
+			"word": "いいかえる「言い換える」",
+			"translation": "换个说法"
+		},
+		{
+			"id": "164",
+			"word": "いいかげん「いい加減」",
+			"translation": "适度的，无根据，很"
+		},
+		{
+			"id": "165",
+			"word": "いいかた「言い方」",
+			"translation": "说法"
+		},
+		{
+			"id": "166",
+			"word": "いいだす「言い出す」",
+			"translation": "开始说"
+		},
+		{
+			"id": "167",
+			"word": "いいつける「言いつける」",
+			"translation": "命令，告状"
+		},
+		{
+			"id" : "168",
+			"word" : "いいん「委員」",
+			"translation": "委员"
+		},
+		{
+			"id" : "169",
+			"word": "いえる「言える」",
+			 "translation": "说过，能说"
+		},	
+		{
+			"id" : "170",
+			"word" : "いか「以下」",
+			"translation": "以下"
+		},
+		{
+			"id" : "171",
+			"word" : "いがい「以外」",
+			"translation":"除……以外"
+		},
+		{
+			"id" : "172",
+			"word" : "いがい「意外」",
+			"translation" : "意外"
+		},
+		{
+			"id" : "173",
+			"word" : "いかが「如何」",
+			"translation" : "如何"
+		},
+		{
+			"id" : "174",
+			"word" : "いがく「医学」",
+			"translation" : "医学"
+		},
+		{
+			"id" : "175",
+			"word" : "いかす「生かす」",
+			"translation" : "使活着，活用，使复活"
+		},
+		{
+			"id" : "176",
+			"word" : "いかに「如何に」",
+			"translation" : "多么，怎样"
+			},
+			{
+				"id": "177",
+				"word" : "いき「息」",
+				"translation":"呼吸，步伐，喘不上来气"
+			},
+			{
+				"id" : "178",
+				"word" : "いぎ「意義」",
+				"translation" : "意义，重要的"
+			},
+			{
+				"id" : "179",
+				"word" : "いきいき「生き生き」",
+				"translation" : "生气勃勃的"
+			},
+			{
+				"id" : "180",
+				"word" : "いきおい「勢い」",
+				"translation" : "力，活力，势力"
+			},
+			{
+				"id" : "181",
+				"word" : "いきかた「生き方」",
+				"translation" : "生活方式"
+			},
+			{
+				"id" : "182",
+				"word" : "いきなり",
+				"translation" : "突然"
+			},
+			{
+				"id" : "183",
+				"word" : "いきもの「生き物」",
+				"translation":"生物"
+			},
+			{
+				"id" : "184",
+				"word" : "いきる「生きる」",
+				"translation" : "维生，有效，生动"
+			},
+			{
+				"id" : "185",
+				"word" : "いき「幾」",
+				"translation" : "几个"
+			},
+			{
+				"id" : "186",
+				"word" : "いく「行く」",
+				"translation" : "去，寄到，过去，往来，事情进展"
+			},
+			{
+				"id" : "187",
+				"word" : "いくじ「育児」",
+				"translation" : "育儿"
+			},
+			{
+				"id" : "188",
+				"word" : "いくぶん「幾分」",
+				"translation" : "几分，一点儿"
+			} ,
+			{
+				"id" : "189",
+				"word" : "いくら「幾ら」",
+				"translation":"多少钱，无论如何"
+			},
+			{
+				"id" : "190",
+				"word" : "いけ「池」",
+				"translation" : "池子"
+			},
+			{
+				"id" : "191",
+				"word" : "いけない",
+				"translation" : "不好的，没有希望的"
+			},
+			{
+				"id" : "192",
+				"word" : "いけはな「生花」",
+				"translation" : "插花，插的花"
+			},
+			{
+				"id" : "193",
+				"word" : "いけん「意見」",
+				"translation" : "想法"
+			},
+			{
+				"id" : "194",
+				"word" : "いご「以後」",
+				"translation" : "以后"
+			},
+			{
+				"id" : "195",
+				"word" : "いこう「意向」",
+				"translation":"意图"
+			},
+			{
+				"id" : "196",
+				"word" : "以降",
+				"translation" : "以后"
+			},
+			{
+				"id" : "197",
+				"word" : "いさましい「勇ましい」",
+				"translation" : "勇敢的"
+			},
+			{
+				"id" : "198",
+				"word" : "いし「石」",
+				"translation" : "石子，宝石"
+			},
+			{
+				"id" : "199",
+				"word" : "いし「意志」",
+				"translation" : "意志"
+			},
+			{
+				"id" : "200",
+				"word" : "いし「医師」",
+				"translation" : "医生"
+			},
+			{
+				"id" : "201",
+				"word" : "",
+				"translation" : ""
+			},
+		{
+		    "id": "202",
+		    "word": "",
+		    "translation": ""
+		},
+		{
+		    "id": "203",
+		    "word": "",
+		    "translation": ""
+		},
+		{
+		    "id": "204",
+		    "word": "", 
+		    "translation": ""
+		},
+		{
+		    "id": "205",
+		    "word": "",
+		    "translation": ""
+		},
+		{
+		    "id": "206",
+		    "word": "",
+			"translation": ""
+		},
+		{
+		    "id": "207",
+		    "word": "",
+		    "translation": ""
+		},
+		{
+		    "id": "208",
+		    "word": "",
+		    "translation": ""
+		},
+		{
+			"id": "209",
+			"word": "",
+			"translation": ""
+		},
+		{
+			"id": "210",
+			"word": "",
+			"translation": ""
+		},
+		{
+			"id": "211",
+			"word": "",
+			"translation": ""
+		},
+		{
+			"id": "212",
+			"word": "",
+			"translation": ""
+		},
+		{
+			"id": "213",
+			"word": "",
+			"translation": ""
+		},
+		{
+			"id": "214",
+			"word": "",
+			"translation": ""
+		},
+		{
+			"id": "215",
+			"word": "",
+			"translation": ""
+		},
+		{
+			"id": "216",
+			"word": "",
+			"translation": ""
+		},
+		{
+			"id": "217",
+			"word": "",
+			"translation": ""
+		},
+		{
+			"id": "218",
+			"word": "",
+			"translation": ""
+		},
+		{
+			"id" : "219",
+			"word" : "",
+			"translation": ""
+		},
+		{
+			"id" : "220",
+			"word": "",
+			 "translation": ""
+		},	
+		{
+			"id" : "221",
+			"word" : "",
+			"translation": ""
+		},
+		{
+			"id" : "222",
+			"word" : "",
+			"translation":""
+		},
+		{
+			"id" : "223",
+			"word" : "",
+			"translation" : ""
+		},
+		{
+			"id" : "224",
+			"word" : "",
+			"translation" : ""
+		},
+		{
+			"id" : "225",
+			"word" : "",
+			"translation" : ""
+		},
+		{
+			"id" : "226",
+			"word" : "",
+			"translation" : ""
+		},
+		{
+			"id" : "227",
+			"word" : "",
+			"translation" : ""
+			},
+			{
+				"id": "228",
+				"word" : "",
+				"translation":""
+			},
+			{
+				"id" : "229",
+				"word" : "",
+				"translation" : ""
+			},
+			{
+				"id" : "230",
+				"word" : "",
+				"translation" : ""
+			},
+			{
+				"id" : "231",
+				"word" : "",
+				"translation" : ""
+			},
+			{
+				"id" : "232",
+				"word" : "",
+				"translation" : ""
+			},
+			{
+				"id" : "233",
+				"word" : "",
+				"translation" : ""
+			},
+			{
+				"id" : "234",
+				"word" : "",
+				"translation":""
+			},
+			{
+				"id" : "235",
+				"word" : "",
+				"translation" : ""
+			},
+			{
+				"id" : "236",
+				"word" : "",
+				"translation" : ""
+			},
+			{
+				"id" : "237",
+				"word" : "",
+				"translation" : ""
+			},
+			{
+				"id" : "238",
+				"word" : "",
+				"translation" : ""
+			},
+			{
+				"id" : "239",
+				"word" : "",
+				"translation" : ""
+			} ,
+			{
+				"id" : "240",
+				"word" : "",
+				"translation":""
+			},
+			{
+				"id" : "241",
+				"word" : "",
+				"translation" : ""
+			},
+			{
+				"id" : "242",
+				"word" : "",
+				"translation" : ""
+			},
+			{
+				"id" : "243",
+				"word" : "",
+				"translation" : ""
+			},
+			{
+				"id" : "244",
+				"word" : "",
+				"translation" : ""
+			},
+			{
+				"id" : "245",
+				"word" : "いご「以後」",
+				"translation" : "以后"
+			},
+			{
+				"id" : "246",
+				"word" : "いこう「意向」",
+				"translation":"意图"
+			},
+			{
+				"id" : "247",
+				"word" : "以降",
+				"translation" : "以后"
+			},
+			{
+				"id" : "248",
+				"word" : "いさましい「勇ましい」",
+				"translation" : "勇敢的"
+			},
+			{
+				"id" : "249",
+				"word" : "いし「石」",
+				"translation" : "石子，宝石"
+			},
+			{
+				"id" : "250",
+				"word" : "いし「意志」",
+				"translation" : "意志"
+			},
+			{
+				"id" : "251",
+				"word" : "いし「医師」",
+				"translation" : "医生"
+			}
+]
